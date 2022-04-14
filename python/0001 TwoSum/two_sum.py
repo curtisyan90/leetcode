@@ -1,3 +1,5 @@
+# Writing without references - Mar 17, 2022
+
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         if nums.count(target/2)==2 :
